@@ -6,7 +6,7 @@
 
 Detail description.
 
-![Running Game]()
+![Running Game](https://github.com/Adelinew50/portfolio/blob/main/images/spacegame01.png?raw=true)
 
 * [Windows](https://github.com/Adelinew50/portfolio/blob/main/src/windows-amd64.zip)
 * [MacOS](https://github.com/Adelinew50/portfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
